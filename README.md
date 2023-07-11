@@ -27,7 +27,7 @@
 
 ##
 
-![Snake Animation](https://github.com/ElaniZanlucas)
+![snake gif](https://github.com/ElaniZanlucas/ElaniZanlucas/blob/output/github-contribution-grid-snake.svg)
 
 
 
