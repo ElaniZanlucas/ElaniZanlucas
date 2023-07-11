@@ -25,8 +25,9 @@
 </div>
 
 ##
-
+<!--
 ![Snake animation](https://github.com/ElaniZanlucas/ElaniZanlucas/blob/output/github-contribution-grid-snake.svg)
+--> 
 
 
 
