@@ -1,6 +1,5 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Olá+mundo!👋🌎;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 <div>
-  <h3>Hello World!! 👋🌎</h3>
   <img align="center" alt="Me" height="300" width="300" src="https://github.com/ElaniZanlucas/ElaniZanlucas/assets/57686748/6457fcc1-eef1-4ed2-9042-47507c361ba8">
   <a href="https://www.linkedin.com/in/elani-zanlucas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
