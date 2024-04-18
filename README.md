@@ -6,8 +6,10 @@
 </div>
 
 ##
-- 🔭 I’m currently working on EJ Mega Junior
-- 🌱 I’m currently learning Frontend Development & Data Analysis
+- 🔭 I’m currently working in Uva Energia Solar as QA
+- 🎓 I have a degree in Computer Science at UFMS
+- 📖 I'm currently doing postgraduate degree in Data Science for the Financial Market at XP Education
+- 🌱 Nowadays, I’m learning about QA & Data Analysis
 - 💬 Ask me about my hobbies
 - 📫 How to reach me: I'm publishing my projects on [Medium](https://medium.com/@emzan.06)
 - ⚡ Fun fact: I have a cute duck debugger that calls Perry! 🦆
@@ -26,6 +28,8 @@
 </div>
 
 <div>
+  For QA, I'm learning about Scrum and test cases, focusing on improvement.
+  </br>
   For Data Analysis, I'm focusing on SQL, Python, Power BI and Excel.
 </div>
 
