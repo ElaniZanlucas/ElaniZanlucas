@@ -6,10 +6,9 @@
 </div>
 
 ##
-- 🔭 I’m currently working in Uva Energia Solar as QA
+- 🔭 I’m currently studying Python to become a BackEnd Developer
 - 🎓 I have a degree in Computer Science at UFMS
-- 📖 I'm currently doing postgraduate degree in Data Science for the Financial Market at XP Education
-- 🌱 Nowadays, I’m learning about QA & Data Analysis
+- 🌱 I am also interested in data analysis, finance and AI!
 - 💬 Ask me about my hobbies
 - 📫 How to reach me: I'm publishing my projects on [Medium](https://medium.com/@emzan.06)
 - ⚡ Fun fact: I have a cute duck debugger that calls Perry! 🦆
