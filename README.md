@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Olá+mundo!👋🌎;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!👋🌎;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 <div>
   <img align="center" alt="Me" height="300" width="300" src="https://github.com/ElaniZanlucas/ElaniZanlucas/assets/57686748/6457fcc1-eef1-4ed2-9042-47507c361ba8">
   <a href="https://www.linkedin.com/in/elani-zanlucas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -6,7 +6,7 @@
 </div>
 
 ##
-- 🔭 I’m currently studying Python to become a BackEnd Developer
+- 🔭 My goal is to become a Backend Developer! For this, I am studying Python, focusing on Django, SQL Server and FastAPI.
 - 🎓 I have a degree in Computer Science at UFMS
 - 🌱 I am also interested in data analysis, finance and AI!
 - 💬 Ask me about my hobbies
@@ -24,12 +24,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-<div>
-  For QA, I'm learning about Scrum and test cases, focusing on improvement.
-  </br>
-  For Data Analysis, I'm focusing on SQL, Python, Power BI and Excel.
 </div>
 
 <!--
